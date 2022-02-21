@@ -39,7 +39,7 @@ state - статус (отмена)
 
 Этапы решения и выводы:
 
-
+SELECT
     retailer_id,
     store_id,
     user_id,
